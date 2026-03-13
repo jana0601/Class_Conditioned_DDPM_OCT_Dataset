@@ -10,16 +10,4 @@ Synthetic OCT images generated in this project are available at:
 https://zenodo.org/records/18987512
 
 
-@dataset{zhao_2026_18987512,
-  author       = {Zhao, Yanhua and
-                  Nagarajupally, Megha Deepa and
-                  Hoog Antink, Christoph},
-  title        = {Synthetic Retinal OCT Dataset Generated using
-                   Class-Conditioned DDPM
-                  },
-  month        = mar,
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18987512},
-  url          = {https://doi.org/10.5281/zenodo.18987512},
-}
+Y. Zhao, M. D. Nagarajupally and C. Hoog Antink, „Synthetic Retinal OCT Dataset Generated using Class-Conditioned DDPM“. Zenodo, March 12, 2026. doi: 10.5281/zenodo.18987512.
